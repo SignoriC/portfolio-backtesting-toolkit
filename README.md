@@ -17,13 +17,15 @@ A collection of tools for backtesting and evaluating portfolio strategies based 
 - yFinance (for financial data)
 
 ## Project Structure
-/Portfolio-Backtesting-Toolkit 
-├── Chap_1_Asset_Data_Collection.ipynb # Collect historical asset price data 
-├── Chap_2_Structuring_Portfolio_Data.ipynb # Prepare and structure portfolio datasets 
-├── Chap_3_Backtesting_Portfolio_Strategies_Part1.ipynb # Initial backtesting techniques 
-├── Chap_4_Strategy_Performance.ipynb # Evaluate strategy performance metrics 
-├── Chap_5_Drawdown_Depth_and_Duration.ipynb # Analyze risk through drawdowns 
-├── Chap_6_Backtesting_Portfolio_Strategies_Part2.ipynb # Advanced backtesting approaches 
-├── Chap_7_Testing_Strategies_in_Practice.ipynb # Full testing framework and strategy comparison 
-├── Utils.py # Core utility functions for reuse 
-├── historical_series/ # Folder containing historical asset CSV files └──
+
+- Chap_1_Asset_Data_Collection.ipynb # Collect historical asset price data
+- Chap_2_Structuring_Portfolio_Data.ipynb # Prepare and structure portfolio datasets 
+- Chap_3_Backtesting_Portfolio_Strategies_Part1.ipynb # Initial backtesting techniques 
+- Chap_4_Strategy_Performance.ipynb # Evaluate strategy performance metrics 
+- Chap_5_Drawdown_Depth_and_Duration.ipynb # Analyze risk through drawdowns 
+- Chap_6_Backtesting_Portfolio_Strategies_Part2.ipynb # Advanced backtesting approaches 
+- Chap_7_Testing_Strategies_in_Practice.ipynb # Full testing framework and strategy comparison 
+- Utils.py # Core utility functions for reuse 
+- historical_series/ # Folder containing asset CSV files with historical prices (optional)
+
+
