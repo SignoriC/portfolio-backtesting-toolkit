@@ -27,3 +27,5 @@ A collection of tools for backtesting and evaluating portfolio strategies based 
 - Utils.py # Core utility functions for reuse 
 - historical_series/ # Folder containing asset CSV files with historical prices (optional)
 
+## Example Output
+![Portfolio Backtesting Example](Images/return_vs_risk.png)
