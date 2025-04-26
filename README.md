@@ -17,7 +17,6 @@ A collection of tools for backtesting and evaluating portfolio strategies based 
 - yFinance (for financial data)
 
 ## Project Structure
-
 - Chap_1_Asset_Data_Collection.ipynb # Collect historical asset price data
 - Chap_2_Structuring_Portfolio_Data.ipynb # Prepare and structure portfolio datasets 
 - Chap_3_Backtesting_Portfolio_Strategies_Part1.ipynb # Initial backtesting techniques 
